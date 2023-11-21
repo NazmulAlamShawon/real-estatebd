@@ -1,7 +1,10 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
-export default function SignOut() {
+
+function SignUp() {
   return (
-    <div>SignOut</div>
+    <div>SignUp</div>
   )
 }
+
+export default SignUp
